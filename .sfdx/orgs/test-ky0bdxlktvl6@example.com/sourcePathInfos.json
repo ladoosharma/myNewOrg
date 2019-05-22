@@ -1,0 +1,298 @@
+[
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558435508950,
+            "changeTime": 1558435508950,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558435508950,
+            "changeTime": 1558435508950,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255130,
+            "changeTime": 1558503255130,
+            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558435508952,
+            "changeTime": 1558435508952,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558435508953,
+            "changeTime": 1558435508953,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558499380274,
+            "changeTime": 1558499380274,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2144,
+            "modifiedTime": 1558503255084,
+            "changeTime": 1558503255084,
+            "contentHash": "70307848384540cd2330c417883f91d2096567dd"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1558503255089,
+            "changeTime": 1558503255089,
+            "contentHash": "893ff2d0dfed962ec37baf5757bc69a119b7a532"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1558503255094,
+            "changeTime": 1558503255094,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2794,
+            "modifiedTime": 1558503255114,
+            "changeTime": 1558503255114,
+            "contentHash": "398a21e7a323e325df8777a3a6bf6f1c3fdf2e42"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1558503255122,
+            "changeTime": 1558503255122,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5156,
+            "modifiedTime": 1558503255132,
+            "changeTime": 1558503255132,
+            "contentHash": "f458e19af69958adc8da587dce13902f48aba037"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19535,
+            "modifiedTime": 1558503255149,
+            "changeTime": 1558503255149,
+            "contentHash": "f957a11fdeb33ad0332e74627efafb152ede30e0"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4818,
+            "modifiedTime": 1558503255155,
+            "changeTime": 1558503255155,
+            "contentHash": "eb80988340388dc323331ff52aca1fa373816134"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4818,
+            "modifiedTime": 1558503255161,
+            "changeTime": 1558503255161,
+            "contentHash": "eb80988340388dc323331ff52aca1fa373816134"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255091,
+            "changeTime": 1558503255091,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255081,
+            "changeTime": 1558503255081,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255089,
+            "changeTime": 1558503255089,
+            "contentHash": "e4ef6688dde4d58cfdb267e6e74b05930ac51d9f"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255094,
+            "changeTime": 1558503255094,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255114,
+            "changeTime": 1558503255114,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255121,
+            "changeTime": 1558503255121,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\Desktop\\newGitDirectory\\myFruitImportExport\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558503255161,
+            "changeTime": 1558503255161,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
